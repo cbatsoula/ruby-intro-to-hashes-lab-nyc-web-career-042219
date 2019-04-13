@@ -13,7 +13,7 @@ def monopoly
 	  :railroads => 
 	  {
 	    :pieces => 4,
-	  {
+	  }
 	  
 	}
 
